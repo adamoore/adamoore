@@ -1,7 +1,8 @@
 - 🙋🏽‍♀️ Hi, I’m @adamoore
 - 👀 My dream is to be able to work remotely from around the world 🌎
-- 🌱 I’m currently studying a vocation for information & communications technology in Omnia. Looking forward to becoming a fullstack developer!🦾
-- 💞️ I’m looking to collaborate on visually inspiring but practical projects, self-help, calendars, creating creative platforms, apps/games, e-commerce, UX/UI design...
+- 🌱 I’m currently studying a vocation for information & communications technology in Omnia.<br>
+   I'm excited to become a fullstack developer!🦾
+- 💞️ I would love to collaborate on visually inspiring but practical projects, self-help, calendars, creating creative platforms, apps/games, e-commerce, UX/UI design...
 - 📫 How to reach me: moore.adasha@gmail.com ✨
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: 🐾🦴
