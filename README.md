@@ -2,7 +2,7 @@
 - 🌱 Vocational Qualificaion in Information and Communication Technology (ICT) <br>
 - 💞️ I would love to collaborate on visually inspiring but practical projects, self-help, calendars, creating creative platforms, apps/games, e-commerce, UX/UI design...
 - ✨ Deepening skills in backend development and devops combined with generative AI
-- 📫 Contact me: https://www.linkedin.com/in/adasha-moore/ 
+- 📫 <a href="https://www.linkedin.com/in/adasha-moore/">Message me</a>  
 
 <!---
 adamoore/adamoore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
